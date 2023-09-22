@@ -1,0 +1,15 @@
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/bin/Debug/net6.0/Teste-bold
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/bin/Debug/net6.0/Teste-bold.deps.json
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/bin/Debug/net6.0/Teste-bold.runtimeconfig.json
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/bin/Debug/net6.0/Teste-bold.dll
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/bin/Debug/net6.0/Teste-bold.pdb
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.csproj.AssemblyReference.cache
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.AssemblyInfoInputs.cache
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.AssemblyInfo.cs
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.csproj.CoreCompileInputs.cache
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.dll
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/refint/Teste-bold.dll
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.pdb
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/Teste-bold.genruntimeconfig.cache
+/Users/matheusmascarenhas/Bold Solution/DOTNET/Teste-bold/obj/Debug/net6.0/ref/Teste-bold.dll
